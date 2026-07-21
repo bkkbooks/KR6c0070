@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0070_000-X.yaml, hash: 'sha256:f84df685a6745737c3cbe53647c168b764624c1f13b3309616aba875a85013b1'}
+  - {seq: 0, filename: KR6c0070_000-X.yaml, hash: 'sha256:87d841af8e236676f3872cd783588f9ba4d4d9cb44df530adeaaf87e5117199f'}
   - {seq: 1, filename: KR6c0070_001-X.yaml, hash: 'sha256:9eefeb62a441358007299f81ca77b7025b9b05c5f25cf464b221bd37215cfac2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0070_000-X.markers.yaml, hash: 'sha256:94642eb805f2b39ccf1689e7dc37b6fe910bd6e059a51740b1f6016131bcf353'}
+  - {seq: 0, role: markers, filename: assets/KR6c0070_000-X.markers.yaml, hash: 'sha256:280e09f4c9ded0df727cecbb1bb0009ec5d02045ac84d6abafecec95caeff090'}
   - {seq: 1, role: markers, filename: assets/KR6c0070_001-X.markers.yaml, hash: 'sha256:2761d5561e1df42dc26c54dc1e705938248ec84b7fb4954d81a97ab5f327d6ef'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0070_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 482-A 金剛略疏序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0070_X_000-mulu-2
     span:
-    - front
+    - body
     - 605
     - 605
   label: 金剛略疏
@@ -55,4 +55,4 @@ table_of_contents:
   label: 金剛略疏
   type: juan
   level: 1
-hash: sha256:e117d1b89b1411321e88d8f8ba3be8b7abb22616d1e7f2da88b4bf51d602ed0f
+hash: sha256:743435d65fad7c01b4649ee40ebed2e76ed94b4c0daea2d57d0f5d6c55f48a54
